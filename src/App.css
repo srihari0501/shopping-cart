@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color:lavenderblush;
+}
+
+header,footer{
+  background-color:cyan;
+  color:darkblue ;
+  
+}
+
+.navbar{
+background-color:darkgrey;
+
+
+}
+ 
+
+ .button{
+  background-color:lemonchiffon;
+  margin: 10px;
+  border-radius: 12px;
+  color:darkred;
+  
+ }
